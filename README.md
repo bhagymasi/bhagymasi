@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bhagymasi
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on any blockchain projects
 - 📫 Find me on Twitter https://twitter.com/HagymasiBalazs
 
 <!---
